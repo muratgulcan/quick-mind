@@ -1,262 +1,292 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>QuickMind - Privacy Policy</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-        }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 3px solid #3498db;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #34495e;
-            margin-top: 30px;
-        }
-        .last-updated {
-            color: #7f8c8d;
-            font-style: italic;
-            margin-bottom: 30px;
-        }
-        .contact-info {
-            background-color: #ecf0f1;
-            padding: 15px;
-            border-radius: 5px;
-            margin-top: 30px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Privacy Policy - QuickMind</h1>
-    <p class="last-updated">Last Updated: January 2026</p>
+# Privacy Policy - QuickMind
 
-    <h2>1. Introduction</h2>
-    <p>
-        Welcome to QuickMind. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application ("App").
-    </p>
-    <p>
-        By using QuickMind, you agree to the collection and use of information in accordance with this policy.
-    </p>
+**Last Updated:** January 2026
 
-    <h2>2. Information We Collect</h2>
-    <h3>2.1 Automatically Collected Information</h3>
-    <p>
-        When you use QuickMind, we may collect certain information automatically, including:
-    </p>
-    <ul>
-        <li><strong>Device Information:</strong> Device type, operating system version, unique device identifiers</li>
-        <li><strong>Usage Data:</strong> How you interact with the App, game scores, preferences</li>
-        <li><strong>Advertising Data:</strong> Ad identifiers and related data for advertising purposes</li>
-    </ul>
+## Introduction
 
-    <h3>2.2 Information You Provide</h3>
-    <p>
-        We may collect information that you provide directly, such as:
-    </p>
-    <ul>
-        <li>Game settings and preferences</li>
-        <li>High scores and game statistics</li>
-    </ul>
+Welcome to QuickMind. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application. By using QuickMind, you agree to the collection and use of information in accordance with this policy.
 
-    <h2>3. How We Use Your Information</h2>
-    <p>We use the collected information for the following purposes:</p>
-    <ul>
-        <li>To provide and maintain our App</li>
-        <li>To personalize your gaming experience</li>
-        <li>To display personalized advertisements</li>
-        <li>To analyze and improve our App</li>
-        <li>To track your game progress and scores</li>
-    </ul>
+## Information We Collect
 
-    <h2>4. Third-Party Services</h2>
-    <h3>4.1 Google AdMob</h3>
-    <p>
-        QuickMind uses Google AdMob to display advertisements. AdMob may collect and use information about you to provide personalized ads. For more information about how Google uses data, please visit:
-    </p>
-    <ul>
-        <li><a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a></li>
-        <li><a href="https://support.google.com/admob/answer/6128543" target="_blank">AdMob Privacy Information</a></li>
-    </ul>
-    <p>
-        AdMob may collect:
-    </p>
-    <ul>
-        <li>Device identifiers (IDFA, Android ID)</li>
-        <li>IP address</li>
-        <li>App usage data</li>
-        <li>Location data (if permitted)</li>
-    </ul>
+### Automatically Collected Information
 
-    <h2>5. Data Storage</h2>
-    <p>
-        Your game data (scores, settings, preferences) is stored locally on your device. We do not store your personal information on our servers.
-    </p>
+When you use QuickMind, we may collect certain information automatically:
 
-    <h2>6. Data Sharing</h2>
-    <p>
-        We do not sell your personal information. We may share information with:
-    </p>
-    <ul>
-        <li><strong>Google AdMob:</strong> For advertising purposes (as described above)</li>
-        <li><strong>Service Providers:</strong> To help us operate our App (analytics, crash reporting)</li>
-    </ul>
+- **Device Information**: Device type, operating system version, unique device identifiers
+- **Usage Data**: How you interact with the App, game scores, preferences, settings
+- **Advertising Data**: Ad identifiers and related data for advertising purposes (via Google AdMob)
 
-    <h2>7. Your Rights</h2>
-    <p>You have the right to:</p>
-    <ul>
-        <li>Access your personal information</li>
-        <li>Request deletion of your data</li>
-        <li>Opt-out of personalized advertising (through device settings)</li>
-        <li>Request information about data we collect</li>
-    </ul>
-    <p>
-        To exercise these rights, please contact us using the information provided below.
-    </p>
+### Information You Provide
 
-    <h2>8. Children's Privacy</h2>
-    <p>
-        QuickMind is suitable for users of all ages, including children. We comply with applicable children's privacy laws. We do not knowingly collect personal information from children under 13 without parental consent.
-    </p>
+We may collect information that you provide directly:
 
-    <h2>9. Security</h2>
-    <p>
-        We implement appropriate security measures to protect your information. However, no method of transmission over the internet is 100% secure.
-    </p>
+- **Game Settings**: Your selected game modes, difficulty preferences, language settings
+- **Game Statistics**: High scores, game results, round history
+- **Preferences**: Selected math operations, enabled game modes
 
-    <h2>10. Changes to This Privacy Policy</h2>
-    <p>
-        We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
-    </p>
+### Data Storage
 
-    <h2>11. Contact Us</h2>
-    <div class="contact-info">
-        <p>If you have any questions about this Privacy Policy, please contact us:</p>
-        <p>
-            <strong>Email:</strong> [YOUR_EMAIL_ADDRESS]<br>
-            <strong>App:</strong> QuickMind
-        </p>
-    </div>
+All game data (scores, settings, preferences) is stored **locally on your device** using iOS UserDefaults. We do not store your personal information on external servers.
 
-    <hr style="margin-top: 40px; border: none; border-top: 1px solid #ddd;">
+## How We Use Your Information
 
-    <h1>Gizlilik Politikası - QuickMind</h1>
-    <p class="last-updated">Son Güncelleme: Ocak 2026</p>
+We use the collected information for the following purposes:
 
-    <h2>1. Giriş</h2>
-    <p>
-        QuickMind'e hoş geldiniz. Bu Gizlilik Politikası, mobil uygulamamızı ("Uygulama") kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar.
-    </p>
-    <p>
-        QuickMind'i kullanarak, bu politika uyarınca bilgilerin toplanması ve kullanılmasını kabul etmiş olursunuz.
-    </p>
+- **To provide and maintain our App**: Ensure the App functions correctly
+- **To personalize your gaming experience**: Remember your preferences and settings
+- **To display advertisements**: Show ads through Google AdMob (which may be personalized or non-personalized based on your device settings and applicable laws)
+- **To analyze and improve our App**: Understand how users interact with the App
+- **To track your game progress**: Store and display your scores and achievements
 
-    <h2>2. Topladığımız Bilgiler</h2>
-    <h3>2.1 Otomatik Toplanan Bilgiler</h3>
-    <p>
-        QuickMind'i kullandığınızda, aşağıdaki bilgileri otomatik olarak toplayabiliriz:
-    </p>
-    <ul>
-        <li><strong>Cihaz Bilgileri:</strong> Cihaz türü, işletim sistemi sürümü, benzersiz cihaz tanımlayıcıları</li>
-        <li><strong>Kullanım Verileri:</strong> Uygulama ile nasıl etkileşim kurduğunuz, oyun skorları, tercihler</li>
-        <li><strong>Reklam Verileri:</strong> Reklam amaçlı reklam tanımlayıcıları ve ilgili veriler</li>
-    </ul>
+## Third-Party Services
 
-    <h3>2.2 Sağladığınız Bilgiler</h3>
-    <p>
-        Doğrudan sağladığınız bilgileri toplayabiliriz:
-    </p>
-    <ul>
-        <li>Oyun ayarları ve tercihleri</li>
-        <li>Yüksek skorlar ve oyun istatistikleri</li>
-    </ul>
+### Google AdMob
 
-    <h2>3. Bilgilerinizi Nasıl Kullanıyoruz</h2>
-    <p>Toplanan bilgileri aşağıdaki amaçlar için kullanıyoruz:</p>
-    <ul>
-        <li>Uygulamamızı sağlamak ve sürdürmek</li>
-        <li>Oyun deneyiminizi kişiselleştirmek</li>
-        <li>Kişiselleştirilmiş reklamlar göstermek</li>
-        <li>Uygulamamızı analiz etmek ve iyileştirmek</li>
-        <li>Oyun ilerlemenizi ve skorlarınızı takip etmek</li>
-    </ul>
+QuickMind uses **Google AdMob** to display advertisements. AdMob may collect and use information about you to provide ads.
 
-    <h2>4. Üçüncü Taraf Hizmetleri</h2>
-    <h3>4.1 Google AdMob</h3>
-    <p>
-        QuickMind, reklam göstermek için Google AdMob kullanır. AdMob, kişiselleştirilmiş reklamlar sağlamak için sizinle ilgili bilgileri toplayabilir ve kullanabilir. Google'ın verileri nasıl kullandığı hakkında daha fazla bilgi için lütfen ziyaret edin:
-    </p>
-    <ul>
-        <li><a href="https://policies.google.com/privacy" target="_blank">Google Gizlilik Politikası</a></li>
-        <li><a href="https://support.google.com/admob/answer/6128543" target="_blank">AdMob Gizlilik Bilgileri</a></li>
-    </ul>
-    <p>
-        AdMob şunları toplayabilir:
-    </p>
-    <ul>
-        <li>Cihaz tanımlayıcıları (IDFA, Android ID)</li>
-        <li>IP adresi</li>
-        <li>Uygulama kullanım verileri</li>
-        <li>Konum verileri (izin verilirse)</li>
-    </ul>
+**What AdMob may collect:**
+- Device identifiers (IDFA on iOS, Android ID on Android)
+- IP address
+- App usage data
+- Location data (if permitted by you)
+- Advertising identifiers
 
-    <h2>5. Veri Depolama</h2>
-    <p>
-        Oyun verileriniz (skorlar, ayarlar, tercihler) cihazınızda yerel olarak saklanır. Kişisel bilgilerinizi sunucularımızda saklamıyoruz.
-    </p>
+**For more information:**
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [AdMob Privacy Information](https://support.google.com/admob/answer/6128543)
 
-    <h2>6. Veri Paylaşımı</h2>
-    <p>
-        Kişisel bilgilerinizi satmıyoruz. Bilgileri şunlarla paylaşabiliriz:
-    </p>
-    <ul>
-        <li><strong>Google AdMob:</strong> Reklam amaçlı (yukarıda açıklandığı gibi)</li>
-        <li><strong>Hizmet Sağlayıcılar:</strong> Uygulamamızı işletmemize yardımcı olmak için (analitik, çökme raporlama)</li>
-    </ul>
+**Important Note for Children:**
+QuickMind is designed for users of all ages. When child-directed treatment is enabled in AdMob, the ads shown will be appropriate for children and will comply with COPPA (Children's Online Privacy Protection Act) requirements.
 
-    <h2>7. Haklarınız</h2>
-    <p>Şu haklara sahipsiniz:</p>
-    <ul>
-        <li>Kişisel bilgilerinize erişim</li>
-        <li>Verilerinizin silinmesini talep etme</li>
-        <li>Kişiselleştirilmiş reklamlardan çıkma (cihaz ayarları üzerinden)</li>
-        <li>Topladığımız veriler hakkında bilgi talep etme</li>
-    </ul>
-    <p>
-        Bu hakları kullanmak için lütfen aşağıda belirtilen bilgileri kullanarak bizimle iletişime geçin.
-    </p>
+**You can opt-out of personalized advertising:**
+- **iOS**: Settings → Privacy & Security → Apple Advertising → Turn off "Personalized Ads"
+- **Android**: Settings → Google → Ads → Opt out of Ads Personalization
 
-    <h2>8. Çocukların Gizliliği</h2>
-    <p>
-        QuickMind, çocuklar dahil tüm yaşlardaki kullanıcılar için uygundur. Geçerli çocuk gizlilik yasalarına uyuyoruz. Ebeveyn onayı olmadan 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamıyoruz.
-    </p>
+## Data Sharing
 
-    <h2>9. Güvenlik</h2>
-    <p>
-        Bilgilerinizi korumak için uygun güvenlik önlemleri uyguluyoruz. Ancak, internet üzerinden iletilen hiçbir yöntem %100 güvenli değildir.
-    </p>
+We do **not sell** your personal information. We may share information with:
 
-    <h2>10. Bu Gizlilik Politikasındaki Değişiklikler</h2>
-    <p>
-        Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Değişiklikleri bu sayfaya yeni Gizlilik Politikasını yayınlayarak ve "Son Güncelleme" tarihini güncelleyerek bildireceğiz.
-    </p>
+- **Google AdMob**: For advertising purposes (as described above)
+- **Service Providers**: To help us operate our App (analytics, crash reporting) - if any
 
-    <h2>11. Bize Ulaşın</h2>
-    <div class="contact-info">
-        <p>Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:</p>
-        <p>
-            <strong>E-posta:</strong> [YOUR_EMAIL_ADDRESS]<br>
-            <strong>Uygulama:</strong> QuickMind
-        </p>
-    </div>
-</body>
-</html>
+## Your Rights
+
+You have the right to:
+
+- **Access your data**: View your stored game data within the App
+- **Delete your data**: Clear all game data through the App settings
+- **Opt-out of personalized advertising**: Through your device settings (see above)
+- **Request information**: Contact us to learn more about data we collect
+
+## Children's Privacy
+
+QuickMind is suitable for users of **all ages**, including children. We comply with applicable children's privacy laws:
+
+- Our application is designed to be safe and appropriate for users of all ages, including young children
+- The App does not require account creation or personal information input
+- All game data is stored locally on the device
+- We do not knowingly collect personal information from any users, regardless of age
+- When child-directed treatment is enabled, AdMob will serve age-appropriate, COPPA-compliant advertisements
+
+## Security
+
+We implement appropriate security measures to protect your information:
+
+- All game data is stored locally on your device
+- We use iOS standard security features (UserDefaults encryption)
+- No personal information is transmitted to external servers (except AdMob data as described above)
+
+However, no method of transmission over the internet is 100% secure.
+
+## Data Retention
+
+- **Game Data**: Stored locally on your device until you delete the App or clear app data
+- **AdMob Data**: Subject to Google's data retention policies
+- **No Server Storage**: We do not maintain servers that store your personal information
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+
+- Updating the "Last Updated" date at the top of this policy
+- Posting the new Privacy Policy on this page
+- For significant changes, we may provide additional notice
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+- **Email**: nosignal_gta@icloud.com
+- **App**: QuickMind
+
+## Additional Information
+
+### App Permissions
+
+QuickMind may request the following permissions:
+
+- **Network Access**: Required for displaying advertisements (AdMob)
+- **No other permissions required**: The App does not require camera, microphone, location, or contacts access
+
+### Localization
+
+QuickMind supports multiple languages (Turkish and English). Language preference is stored locally on your device.
+
+### Game Modes
+
+QuickMind offers 5 different game modes:
+- Emoji Mode
+- Math Mode
+- Memory Mode
+- Min/Max Mode
+- Color Mode
+
+Your selected game modes and preferences are stored locally on your device.
+
+---
+
+## Gizlilik Politikası - QuickMind
+
+**Son Güncelleme:** Ocak 2026
+
+## Giriş
+
+QuickMind'e hoş geldiniz. Bu Gizlilik Politikası, mobil uygulamamızı kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar. QuickMind'i kullanarak, bu politika uyarınca bilgilerin toplanması ve kullanılmasını kabul etmiş olursunuz.
+
+## Topladığımız Bilgiler
+
+### Otomatik Toplanan Bilgiler
+
+QuickMind'i kullandığınızda, aşağıdaki bilgileri otomatik olarak toplayabiliriz:
+
+- **Cihaz Bilgileri**: Cihaz türü, işletim sistemi sürümü, benzersiz cihaz tanımlayıcıları
+- **Kullanım Verileri**: Uygulama ile nasıl etkileşim kurduğunuz, oyun skorları, tercihler, ayarlar
+- **Reklam Verileri**: Reklam amaçlı reklam tanımlayıcıları ve ilgili veriler (Google AdMob aracılığıyla)
+
+### Sağladığınız Bilgiler
+
+Doğrudan sağladığınız bilgileri toplayabiliriz:
+
+- **Oyun Ayarları**: Seçtiğiniz oyun modları, zorluk tercihleri, dil ayarları
+- **Oyun İstatistikleri**: Yüksek skorlar, oyun sonuçları, tur geçmişi
+- **Tercihler**: Seçilen matematik işlemleri, etkin oyun modları
+
+### Veri Depolama
+
+Tüm oyun verileri (skorlar, ayarlar, tercihler) iOS UserDefaults kullanılarak **cihazınızda yerel olarak** saklanır. Kişisel bilgilerinizi harici sunucularda saklamıyoruz.
+
+## Bilgilerinizi Nasıl Kullanıyoruz
+
+Toplanan bilgileri aşağıdaki amaçlar için kullanıyoruz:
+
+- **Uygulamamızı sağlamak ve sürdürmek**: Uygulamanın doğru çalışmasını sağlamak
+- **Oyun deneyiminizi kişiselleştirmek**: Tercihlerinizi ve ayarlarınızı hatırlamak
+- **Reklamlar göstermek**: Google AdMob aracılığıyla reklamlar göstermek (cihaz ayarlarınıza ve geçerli yasalara göre kişiselleştirilmiş veya kişiselleştirilmemiş olabilir)
+- **Uygulamamızı analiz etmek ve iyileştirmek**: Kullanıcıların uygulama ile nasıl etkileşim kurduğunu anlamak
+- **Oyun ilerlemenizi takip etmek**: Skorlarınızı ve başarılarınızı saklamak ve göstermek
+
+## Üçüncü Taraf Hizmetleri
+
+### Google AdMob
+
+QuickMind, reklam göstermek için **Google AdMob** kullanır. AdMob, reklamlar sağlamak için sizinle ilgili bilgileri toplayabilir ve kullanabilir.
+
+**AdMob'un toplayabileceği bilgiler:**
+- Cihaz tanımlayıcıları (iOS'ta IDFA, Android'de Android ID)
+- IP adresi
+- Uygulama kullanım verileri
+- Konum verileri (izin verilirse)
+- Reklam tanımlayıcıları
+
+**Daha fazla bilgi için:**
+- [Google Gizlilik Politikası](https://policies.google.com/privacy)
+- [AdMob Gizlilik Bilgileri](https://support.google.com/admob/answer/6128543)
+
+**Çocuklar İçin Önemli Not:**
+QuickMind tüm yaşlardaki kullanıcılar için tasarlanmıştır. AdMob'da çocuklara yönelik işlem etkinleştirildiğinde, gösterilen reklamlar çocuklara uygun olacak ve COPPA (Çocukların Çevrimiçi Gizliliğini Koruma Yasası) gereksinimlerine uygun olacaktır.
+
+**Kişiselleştirilmiş reklamlardan çıkabilirsiniz:**
+- **iOS**: Ayarlar → Gizlilik ve Güvenlik → Apple Reklamcılığı → "Kişiselleştirilmiş Reklamlar"ı kapatın
+- **Android**: Ayarlar → Google → Reklamlar → Reklam Kişiselleştirmesinden çıkın
+
+## Veri Paylaşımı
+
+Kişisel bilgilerinizi **satmıyoruz**. Bilgileri şunlarla paylaşabiliriz:
+
+- **Google AdMob**: Reklam amaçlı (yukarıda açıklandığı gibi)
+- **Hizmet Sağlayıcılar**: Uygulamamızı işletmemize yardımcı olmak için (analitik, çökme raporlama) - varsa
+
+## Haklarınız
+
+Şu haklara sahipsiniz:
+
+- **Verilerinize erişim**: Uygulama içinde saklanan oyun verilerinizi görüntüleme
+- **Verilerinizi silme**: Uygulama ayarları üzerinden tüm oyun verilerini temizleme
+- **Kişiselleştirilmiş reklamlardan çıkma**: Cihaz ayarlarınız üzerinden (yukarıya bakın)
+- **Bilgi talep etme**: Topladığımız veriler hakkında daha fazla bilgi için bizimle iletişime geçme
+
+## Çocukların Gizliliği
+
+QuickMind, **tüm yaşlardaki** kullanıcılar için uygundur, çocuklar dahil. Geçerli çocuk gizlilik yasalarına uyuyoruz:
+
+- Uygulamamız, küçük çocuklar dahil olmak üzere tüm yaşlardaki kullanıcılar için güvenli ve uygun olacak şekilde tasarlanmıştır
+- Uygulama hesap oluşturma veya kişisel bilgi girişi gerektirmez
+- Tüm oyun verileri cihazda yerel olarak saklanır
+- Yaş fark etmeksizin hiçbir kullanıcıdan bilerek kişisel bilgi toplamıyoruz
+- Çocuklara yönelik işlem etkinleştirildiğinde, AdMob yaşa uygun, COPPA uyumlu reklamlar gösterecektir
+
+## Güvenlik
+
+Bilgilerinizi korumak için uygun güvenlik önlemleri uyguluyoruz:
+
+- Tüm oyun verileri cihazınızda yerel olarak saklanır
+- iOS standart güvenlik özelliklerini kullanıyoruz (UserDefaults şifreleme)
+- Kişisel bilgiler harici sunuculara iletilmez (yukarıda açıklandığı gibi AdMob verileri hariç)
+
+Ancak, internet üzerinden iletilen hiçbir yöntem %100 güvenli değildir.
+
+## Veri Saklama
+
+- **Oyun Verileri**: Uygulamayı silene veya uygulama verilerini temizleyene kadar cihazınızda yerel olarak saklanır
+- **AdMob Verileri**: Google'ın veri saklama politikalarına tabidir
+- **Sunucu Depolama Yok**: Kişisel bilgilerinizi saklayan sunucular bulundurmuyoruz
+
+## Bu Gizlilik Politikasındaki Değişiklikler
+
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Değişiklikleri şu şekilde bildireceğiz:
+
+- Bu politikanın üst kısmındaki "Son Güncelleme" tarihini güncelleyerek
+- Bu sayfaya yeni Gizlilik Politikasını yayınlayarak
+- Önemli değişiklikler için ek bildirim sağlayabiliriz
+
+## Bize Ulaşın
+
+Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:
+
+- **E-posta**: nosignal_gta@icloud.com
+- **Uygulama**: QuickMind
+
+## Ek Bilgiler
+
+### Uygulama İzinleri
+
+QuickMind aşağıdaki izinleri talep edebilir:
+
+- **Ağ Erişimi**: Reklam göstermek için gerekli (AdMob)
+- **Başka izin gerekmez**: Uygulama kamera, mikrofon, konum veya kişiler erişimi gerektirmez
+
+### Yerelleştirme
+
+QuickMind birden fazla dili destekler (Türkçe ve İngilizce). Dil tercihi cihazınızda yerel olarak saklanır.
+
+### Oyun Modları
+
+QuickMind 5 farklı oyun modu sunar:
+- Emoji Modu
+- Matematik Modu
+- Hafıza Modu
+- Min/Max Modu
+- Renk Modu
+
+Seçtiğiniz oyun modları ve tercihleriniz cihazınızda yerel olarak saklanır.
 
