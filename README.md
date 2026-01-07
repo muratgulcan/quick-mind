@@ -61,7 +61,7 @@ QuickMind uses Apple's App Tracking Transparency framework to request your permi
 
 **When you'll see the permission request:**
 - The permission dialog appears the first time you open the app after installation
-- You'll see a dialog asking: "Allow [App Name] to track your activity across other companies' apps and websites?"
+- You'll see a dialog asking: "Allow Quick Mind to track your activity across other companies' apps and websites?"
 
 **Your choices:**
 - **Allow**: We can use your advertising identifier to show you personalized ads
@@ -225,7 +225,7 @@ QuickMind, reklam amaçlı olarak uygulamalar ve web siteleri arasında etkinli�
 
 **İzin isteğini ne zaman göreceksiniz:**
 - İzin dialog'u, uygulamayı ilk kez yükledikten sonra açtığınızda görünür
-- Size şu soruyu soran bir dialog göreceksiniz: "[Uygulama Adı]'nin diğer şirketlerin uygulamaları ve web siteleri arasındaki etkinliğinizi izlemesine izin verilsin mi?"
+- Size şu soruyu soran bir dialog göreceksiniz: "Quick Mind'in diğer şirketlerin uygulamaları ve web siteleri arasındaki etkinliğinizi izlemesine izin verilsin mi?"
 
 **Seçenekleriniz:**
 - **İzin Ver**: Reklam tanımlayıcınızı kullanarak size kişiselleştirilmiş reklamlar gösterebiliriz
