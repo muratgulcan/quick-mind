@@ -55,6 +55,23 @@ QuickMind uses **Google AdMob** to display advertisements. AdMob may collect and
 - [Google Privacy Policy](https://policies.google.com/privacy)
 - [AdMob Privacy Information](https://support.google.com/admob/answer/6128543)
 
+**App Tracking Transparency (iOS)**
+
+QuickMind uses Apple's App Tracking Transparency framework to request your permission before tracking your activity across apps and websites for advertising purposes.
+
+**When you'll see the permission request:**
+- The permission dialog appears the first time you open the app after installation
+- You'll see a dialog asking: "Allow [App Name] to track your activity across other companies' apps and websites?"
+
+**Your choices:**
+- **Allow**: We can use your advertising identifier to show you personalized ads
+- **Ask App Not to Track**: We will not track you, but you'll still see ads (they just won't be personalized)
+
+**Important:**
+- You can change your choice at any time in: Settings > Privacy & Security > Tracking
+- Your choice applies to all tracking requests from this app
+- Even if you deny tracking, the app will continue to function normally and show ads
+  
 **Important Note for Children:**
 QuickMind is designed for users of all ages. When child-directed treatment is enabled in AdMob, the ads shown will be appropriate for children and will comply with COPPA (Children's Online Privacy Protection Act) requirements.
 
@@ -68,7 +85,7 @@ We do **not sell** your personal information. We may share information with:
 
 - **Google AdMob**: For advertising purposes (as described above)
 - **Service Providers**: To help us operate our App (analytics, crash reporting) - if any
-
+  
 ## Your Rights
 
 You have the right to:
@@ -202,6 +219,23 @@ QuickMind, reklam göstermek için **Google AdMob** kullanır. AdMob, reklamlar 
 - [Google Gizlilik Politikası](https://policies.google.com/privacy)
 - [AdMob Gizlilik Bilgileri](https://support.google.com/admob/answer/6128543)
 
+**Uygulama İzleme Şeffaflığı (iOS)**
+
+QuickMind, reklam amaçlı olarak uygulamalar ve web siteleri arasında etkinliğinizi izlemeden önce izninizi istemek için Apple'ın Uygulama İzleme Şeffaflığı (App Tracking Transparency) çerçevesini kullanır.
+
+**İzin isteğini ne zaman göreceksiniz:**
+- İzin dialog'u, uygulamayı ilk kez yükledikten sonra açtığınızda görünür
+- Size şu soruyu soran bir dialog göreceksiniz: "[Uygulama Adı]'nin diğer şirketlerin uygulamaları ve web siteleri arasındaki etkinliğinizi izlemesine izin verilsin mi?"
+
+**Seçenekleriniz:**
+- **İzin Ver**: Reklam tanımlayıcınızı kullanarak size kişiselleştirilmiş reklamlar gösterebiliriz
+- **İzleme İstemiyorum**: Sizi izlemeyeceğiz, ancak yine de reklamlar göreceksiniz (sadece kişiselleştirilmiş olmayacak)
+
+**Önemli:**
+- Tercihinizi istediğiniz zaman değiştirebilirsiniz: Ayarlar > Gizlilik ve Güvenlik > İzleme
+- Tercihiniz bu uygulamanın tüm izleme istekleri için geçerlidir
+- İzlemeyi reddetmiş olsanız bile, uygulama normal şekilde çalışmaya devam edecek ve reklamlar gösterecektir
+  
 **Çocuklar İçin Önemli Not:**
 QuickMind tüm yaşlardaki kullanıcılar için tasarlanmıştır. AdMob'da çocuklara yönelik işlem etkinleştirildiğinde, gösterilen reklamlar çocuklara uygun olacak ve COPPA (Çocukların Çevrimiçi Gizliliğini Koruma Yasası) gereksinimlerine uygun olacaktır.
 
